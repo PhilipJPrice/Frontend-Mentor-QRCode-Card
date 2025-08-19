@@ -13,8 +13,8 @@ Want some support on the challenge? [Join our community](https://www.frontendmen
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [Solution URL](https://www.frontendmentor.io/solutions/qr-component-card-K-UBwmvwDV)
+- [Live Site URL](https://philipjprice.github.io/Frontend-Mentor-QRCode-Card/)
 
 ## My Process
 
