@@ -1,5 +1,6 @@
 # Frontend-Mentor-QRCode-Card
-<img width="368" height="464" alt="screenshot" src="https://github.com/user-attachments/assets/dc50638b-2cdf-40a8-b05a-a387e89ff2de" />
+<img width="310" height="497" alt="screenshot2" src="https://github.com/user-attachments/assets/14b5dc3d-38dc-4f11-96c2-cb64d8ac70a2" />
+
 
 ## Overview
 
