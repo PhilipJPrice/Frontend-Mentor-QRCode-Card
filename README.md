@@ -41,6 +41,6 @@ Furthering development in React and Tailwind classes.
 
 ## Author
 
-- Website - [Philip J. Price](https://www.deutro.com)
+- Website - [Deutro](https://www.deutro.com)
 - Frontend Mentor - [@PhilipJPrice](https://www.frontendmentor.io/profile/PhilipJPrice)
-- LinkedIn - [Philip J. Price](https://linkedin.com/in/philipjustinprice/)
+- LinkedIn - [PhilipJustinPrice](https://linkedin.com/in/philipjustinprice/)
